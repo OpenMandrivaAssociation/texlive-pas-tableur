@@ -6,7 +6,7 @@
 # catalog-version 1.04
 Name:		texlive-pas-tableur
 Version:	1.04
-Release:	1
+Release:	2
 Summary:	Create a spreadsheet layout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-tableur

@@ -1,12 +1,12 @@
-# revision 32375
+# revision 33483
 # category Package
 # catalog-ctan /macros/latex/contrib/pas-tableur
-# catalog-date 2013-12-10 12:39:08 +0100
+# catalog-date 2014-04-17 19:41:18 +0200
 # catalog-license lppl
-# catalog-version 1.04
+# catalog-version 1.06
 Name:		texlive-pas-tableur
-Version:	1.04
-Release:	3
+Version:	1.06
+Release:	1
 Summary:	Create a spreadsheet layout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-tableur
@@ -36,6 +36,7 @@ PGF/TikZ is used for placement and population of the cells.
 %{_texmfdistdir}/tex/latex/pas-tableur/pas-tableur.sty
 %doc %{_texmfdistdir}/doc/latex/pas-tableur/README
 %doc %{_texmfdistdir}/doc/latex/pas-tableur/README.TEXLIVE
+%doc %{_texmfdistdir}/doc/latex/pas-tableur/pas-tableur.tex
 
 #-----------------------------------------------------------------------
 %prep

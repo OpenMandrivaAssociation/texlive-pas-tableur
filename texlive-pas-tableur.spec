@@ -1,6 +1,6 @@
 Name:		texlive-pas-tableur
-Version:	39542
-Release:	2
+Version:	66860
+Release:	1
 Summary:	Create a spreadsheet layout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-tableur

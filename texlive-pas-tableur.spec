@@ -1,5 +1,5 @@
 Name:		texlive-pas-tableur
-Version:	66860
+Version:	72283
 Release:	1
 Summary:	Create a spreadsheet layout
 Group:		Publishing
